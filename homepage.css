@@ -1,0 +1,33 @@
+
+body {
+    background-color: rgb(215, 210, 130);
+    background-image: url("https://images.unsplash.com/photo-1424746219973-8fe3bd07d8e3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    color: rgb(2, 77, 23);
+    font-family: "Lucida Console", Times, serif;
+    font-size: xx-large;
+    text-align: center;
+    position: relative;
+    top: 250px;
+}
+h2 {
+    color: rgb(215, 210, 130);
+    font-family: "Lucida Console", Times, serif;
+    font-size: medium;
+    position: relative;
+    top: 250px;
+    left: 450px;
+}
+h3 {
+    color: rgb(215, 210, 130);
+    font-family: "Lucida Console", Times, serif;
+    font-size: large;
+    position: relative;
+    top: 330px;
+    left: 200px;
+}
