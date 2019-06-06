@@ -6,7 +6,7 @@ ER Diagram: https://docs.google.com/document/d/1TR6Gui6ln7qAEFgcX39bbOp1EskyT8Em
 
 To run: http://ada.sterncs.net/~raxelrod/therapyclinic.html (Run on ada, server that we used in this course)
 
-Frontend file done in HTML and CSS: 
+Frontend done in HTML and CSS: 
   Homepages: therapyclinic.html homepage.css
   Userpage: client.html therapist.html userpage.css
   
