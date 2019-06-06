@@ -18,27 +18,27 @@ Within cgi-bin:
  - Therapist
     - GET tGet.py tGet2.py
         - Appointments
-    - Therapist's information
-    - Client's information tGetClient.py
-    - Disorders
-    - Treatments
-  - CREATE tInsert.py tInsert2.py
-    - Specialization tInsertSpecialization.py
-    - Disorder tInsertDisorder.py
-    - Treatment tInsertTreatment.py
+        - Therapist's information
+        - Client's information tGetClient.py
+        - Disorders
+        - Treatments
+    - CREATE tInsert.py tInsert2.py
+        - Specialization tInsertSpecialization.py
+        - Disorder tInsertDisorder.py
+        - Treatment tInsertTreatment.py
  - Client
-  - GET cGet.py cGet2.py
-    - Appointments
-    - Client's information
-    - Therapist's information cGetTherapist.py
-    - Client's information
-    - Disorders
-    - Treatments
-  - CREATE cInsert.py cInsert2.py
-    - Diagnosis cInsertDiagnosis.py
-    - Appointment cInsertAppointment.py
-  - UPDATE cUpdate.py cUpdate2.py
-    - Client's information cUpdateInfo.py
-    - Appointment cUpdateAppointment.py
+    - GET cGet.py cGet2.py
+        - Appointments
+        - Client's information
+        - Therapist's information cGetTherapist.py
+       - Client's information
+        - Disorders
+        - Treatments
+    - CREATE cInsert.py cInsert2.py
+        - Diagnosis cInsertDiagnosis.py
+        - Appointment cInsertAppointment.py
+    - UPDATE cUpdate.py cUpdate2.py
+        - Client's information cUpdateInfo.py
+        - Appointment cUpdateAppointment.py
  - CREATE new client newClient.py insertNewClient.py
  - CREATE new therapist newTherapist.py insertNewTherapist.py
