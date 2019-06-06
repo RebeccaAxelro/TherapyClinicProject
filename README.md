@@ -15,7 +15,7 @@ Within cgi-bin:
  - Does CRUD based on the differnt types of scenerios, based on which action and values are submitted.
  
  - Scenerios:
- 1: Therapist
+ - Therapist
   - GET tGet.py tGet2.py
     - Appointments
     - Therapist's information
@@ -26,7 +26,7 @@ Within cgi-bin:
     - Specialization tInsertSpecialization.py
     - Disorder tInsertDisorder.py
     - Treatment tInsertTreatment.py
- 2: Client
+ - Client
   - GET cGet.py cGet2.py
     - Appointments
     - Client's information
@@ -40,5 +40,5 @@ Within cgi-bin:
   - UPDATE cUpdate.py cUpdate2.py
     - Client's information cUpdateInfo.py
     - Appointment cUpdateAppointment.py
- 3: CREATE new client newClient.py insertNewClient.py
- 4: CREATE new therapist newTherapist.py insertNewTherapist.py
+ - CREATE new client newClient.py insertNewClient.py
+ - CREATE new therapist newTherapist.py insertNewTherapist.py
