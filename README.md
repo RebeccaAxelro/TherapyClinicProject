@@ -16,8 +16,8 @@ Within cgi-bin:
  
  - Scenerios:
  - Therapist
-  - GET tGet.py tGet2.py
-    - Appointments
+    - GET tGet.py tGet2.py
+        -Appointments
     - Therapist's information
     - Client's information tGetClient.py
     - Disorders
